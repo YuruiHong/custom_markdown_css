@@ -1,14 +1,14 @@
 @charset "utf-8";
 
-.sanxian > * > tr * {
+.tlt > * > tr * {
   border: none;
 }
 
-.sanxian > thead > tr > th {
+.tlt > thead > tr > th {
   border-top: 1.5px solid #000;
   border-bottom: 1px solid #000;
 }
 
-.sanxian > tbody > tr:last-child {
+.tlt > tbody > tr:last-child {
   border-bottom: 1.5px solid #000;
 }
