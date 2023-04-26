@@ -93,12 +93,16 @@ body {
     border-bottom: 3px solid #ccc;
   }
   
-  .left {
+  .wrap {
+    margin: 0 auto;
+  }
+  
+  #left {
     position: absolute;
     left: 0;
   }
   
-  .right {
+  #right {
     position: absolute;
     right: 0;
   }
