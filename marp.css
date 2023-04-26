@@ -77,6 +77,12 @@ body {
     margin: 2em 0 1em 0;
   }
   
+  section > img {
+    position: absolute;
+    right: 0;
+    transform:translate(0, -50%)
+  }
+  
   a {
     color: #02669d;
     text-decoration: none;
